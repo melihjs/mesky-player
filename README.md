@@ -33,4 +33,4 @@ client.login('token');
 
 ## Telif Hakkı
 
-  - Ghost Development: [tıkla!](https://discord.gg/delimine)
+  - Ghost Development: [tıkla!](https://discord.gg/ya9Gw8hBb2)
